@@ -92,6 +92,6 @@ O dataset será baixado e o modelo será salvo em models/xgboost_model.pkl
    ```
 ## 📄 Licença
 
-MIT License – sinta‑se à vontade para usar, modificar e distribuir.
+MIT License
 
 🔗 Dataset original: BigMart Sales Data – Kaggle
